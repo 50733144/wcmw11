@@ -1,0 +1,2 @@
+[http]
+	proxy = http://mdeuser:mdeuser@proxy.kmol.info:3128
